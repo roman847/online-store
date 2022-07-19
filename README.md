@@ -1,2 +1,2 @@
 # online-store
-online-store/react-typescript
+https://voluble-faun-1e440d.netlify.app/
